@@ -1,0 +1,24 @@
+:root {
+    --font-family: "Montserrat", sans-serif;
+  
+    --primary-color: #4200FF;
+  }
+  
+  .bg {
+    top: -306px;
+  }
+  
+  .header__lang-item .header__lang-link.active {
+    background-color: #3f1aa5;
+  }
+  
+  .form__content button:hover,
+  .btn-buy:hover,
+  .hero__content-btn:hover {
+    background-color: #3f1aa5;
+  }
+  
+  .hero__content-btn.white:hover {
+    background-color: transparent;
+  }
+  

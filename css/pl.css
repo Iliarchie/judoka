@@ -1,0 +1,23 @@
+:root {
+  --font-family: "Montserrat", sans-serif;
+
+  --primary-color: red;
+}
+
+.bg {
+  top: -306px;
+}
+
+.header__lang-item .header__lang-link.active {
+  background-color: red;
+}
+
+.form__content button:hover,
+.btn-buy:hover,
+.hero__content-btn:hover {
+  background-color: rgb(143, 18, 18);
+}
+
+.hero__content-btn.white:hover {
+  background-color: transparent;
+}
